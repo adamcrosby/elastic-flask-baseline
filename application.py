@@ -12,6 +12,9 @@ def default():
 	#display welcome page
 	return render_template('index.html')
 
+def page2():
+	return render_template('page2.html')
+
 if __name__ == '__main__':
 	application.debug = True
 	application.run(host='0.0.0.0')
