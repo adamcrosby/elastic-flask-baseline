@@ -25,4 +25,4 @@ Quickstart
 
 For More Detailed Instructions
 ------------------------------
-For more detailed information, and a step by step walkthrough of each command, etc., check out my blog post (forthcoming)!.
+For more detailed information, and a step by step walkthrough of each command, etc., check out my [blog post](http://blog.uptill3.com/2012/08/31/flask-elastic-beanstalk-baseline.html)!.
