@@ -12,6 +12,7 @@ def default():
 	#display welcome page
 	return render_template('index.html')
 
+@application.route("/page2")
 def page2():
 	return render_template('page2.html')
 
