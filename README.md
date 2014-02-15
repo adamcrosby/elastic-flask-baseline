@@ -8,8 +8,8 @@ The code here is kept as minimal as possible, while still demonstrating the crit
 Things you will need:
 
 - Flask: http://flask.pocoo.org
-- AWS 'eb' tool: http://aws.amazon.com/developertools/351/
-- Your AWS API keys: https://aws-portal.amazon.com/gp/aws/securityCredentials
+- AWS 'eb' tool: http://aws.amazon.com/code/6752709412171743
+- Your AWS API keys: https://console.aws.amazon.com/iam/home?#security_credential
 - Git: http://git-scm.com
 
 Quickstart
